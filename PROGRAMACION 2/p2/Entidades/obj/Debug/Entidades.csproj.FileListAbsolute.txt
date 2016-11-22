@@ -1,0 +1,5 @@
+C:\Users\julian\Desktop\prog2_2daParte-master\prog2_2daParte\Prado.Agustin.2D.2doParcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\julian\Desktop\prog2_2daParte-master\prog2_2daParte\Prado.Agustin.2D.2doParcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\julian\Desktop\prog2_2daParte-master\prog2_2daParte\Prado.Agustin.2D.2doParcial\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\prog2_2daParte-master\prog2_2daParte\Prado.Agustin.2D.2doParcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\julian\Desktop\prog2_2daParte-master\prog2_2daParte\Prado.Agustin.2D.2doParcial\Entidades\obj\Debug\Entidades.pdb
