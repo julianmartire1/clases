@@ -1,0 +1,5 @@
+C:\Users\julian\Desktop\FinalLaboratorio\FinalLaboratorio\bin\Debug\FinalLaboratorio.exe
+C:\Users\julian\Desktop\FinalLaboratorio\FinalLaboratorio\bin\Debug\FinalLaboratorio.pdb
+C:\Users\julian\Desktop\FinalLaboratorio\FinalLaboratorio\obj\Debug\FinalLaboratorio.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\FinalLaboratorio\FinalLaboratorio\obj\Debug\FinalLaboratorio.exe
+C:\Users\julian\Desktop\FinalLaboratorio\FinalLaboratorio\obj\Debug\FinalLaboratorio.pdb
